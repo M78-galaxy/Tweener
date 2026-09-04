@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local / heavy artifacts (do not publish)
+data/
+runs/
+Krita_app/*.AppImage
+Krita_app/*.appimage
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Temp outputs
+*.mp4
+*.gif

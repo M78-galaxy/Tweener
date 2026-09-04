@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=tweener_health
+X-Python-2-Compatible=false
+Name=Tweener Health
+Comment=Tweener stickman HTTP health + interpolate demo
